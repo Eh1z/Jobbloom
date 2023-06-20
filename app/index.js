@@ -1,4 +1,4 @@
-import { View, Text } from 'react-native';
+import { View } from 'react-native';
 import { useState } from 'react';
 import { ScrollView, SafeAreaView } from "react-native";
 import { Stack, useRouter } from "expo-router";
