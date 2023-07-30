@@ -1,7 +1,7 @@
 # Jobbloom is still under development!!!
 
 
-# Jobbloom - Cross Platform React Native App for Tech Job Seekers
+# Jobbloom - Cross-Platform App for Tech Job Seekers
 
 Jobbloom is a powerful and user-friendly cross-platform mobile application built with React Native, designed to streamline the job search process for tech professionals. The app allows users to sign up, browse, and search for specific tech jobs sourced from various platforms, including LinkedIn, Glassdoor, Indeed, Upwork, and more. With Jobbloom, landing your dream tech job has never been easier!
 
@@ -37,8 +37,8 @@ Jobbloom is a powerful and user-friendly cross-platform mobile application built
 
 ## Technology Stack
 
-- **Expo:** Expo allows you create universal native apps with React that run on Android, iOS, and the web.
-- learn more @ docs.expo.dev
+- **Expo:** Expo allows you to create universal native apps with React that run on Android, iOS, and the web.
+- learn more @ [link](docs.expo.dev)
 
 - **React Native:** A powerful and widely-used framework for building cross-platform mobile applications.
 
@@ -47,7 +47,7 @@ Jobbloom is a powerful and user-friendly cross-platform mobile application built
 - **Authentication:** Secure user authentication is implemented using industry-standard practices.
 
 ## Installation
-When ready, the download link amd landing page links will be provided.
+When ready, the download link and landing page links will be provided.
 
 ## Disclaimer
 
