@@ -99,7 +99,7 @@ const JobDetails = () => {
           ) : error ? (
             <Text>oof, That wasn't supposed to happen.</Text>
           ) : data.length === 0 ? (
-            <Text>No deatils for this job listing</Text>
+            <Text>No data found, Try refreshing.</Text>
           ) : (
             <View style={{ padding: SIZES.medium, paddingBottom: 100 }}>
               <Company

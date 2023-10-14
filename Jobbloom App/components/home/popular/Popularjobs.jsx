@@ -35,6 +35,7 @@ const Popularjobs = () => {
         ) : (
           <FlatList
           data={data}
+          showsHorizontalScrollIndicator={false}
           renderItem={({ item }) => (
             <PopularJobCard
             item={item}
