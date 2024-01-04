@@ -50,7 +50,6 @@ Jobbloom is a powerful and user-friendly cross-platform mobile application built
 When ready, the download link and landing page links will be provided.
 
 ## Disclaimer
-
 Jobbloom is a third-party application and is not affiliated with LinkedIn, Glassdoor, Indeed, Upwork, or any other platforms from which job listings are fetched.
 
 ## Feedback and Support
