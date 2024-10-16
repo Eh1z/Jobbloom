@@ -1,4 +1,4 @@
-# Jobbloom is still under development!
+
 
 # Jobbloom - Cross-Platform App for Tech Job Seekers
 
